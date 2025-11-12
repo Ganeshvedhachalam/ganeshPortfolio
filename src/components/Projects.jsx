@@ -14,7 +14,7 @@ const Projects = () => {
           <img class="project-image" src="assets\medify.png" alt="project" />
           <p class="project-title">Medify</p>
         </a>
-        
+
         <a
           href="https://l-square-q-tify-ntc9.vercel.app/"
           target="_blank"
@@ -23,7 +23,6 @@ const Projects = () => {
           <img class="project-image" src="assets\qtify.png" alt="project" />
           <p class="project-title">Qtify</p>
         </a>
-
 
         <a
           href="https://ganeshgreat08-me-qkart-frontend-v2.vercel.app"
@@ -43,20 +42,59 @@ const Projects = () => {
           <img class="project-image" src="assets/chatBot.png" alt="project" />
           <p class="project-title">CHAT BOT AI</p>
         </a>
+
+        {/* //trello */}
+        <a
+          href="https://trello-react-ganesh.vercel.app/"
+          target="_blank"
+          class="project project-tile"
+        >
+          <img class="project-image" src="assets/trello.png" alt="project" />
+          <p class="project-title">Trello Task Manager</p>
+        </a>
+
         
 
-        {/* <a
-          href="https://codepen.io/MadanSinha/full/MWjPYae"
+        <a
+          href="https://memory-game-ganesh.vercel.app/"
           target="_blank"
           class="project project-tile"
         >
           <img
             class="project-image"
-            src="https://github.com/lazy4gyan/project_pic/blob/main/survey%20f.jpg?raw=true"
+            src="assets/memory.png"
             alt="project"
           />
-          <p class="project-title">Survey Form</p>
-        </a> */}
+          <p class="project-title">Memory Game</p>
+        </a> 
+
+         <a
+          href="https://non-profit-xd.vercel.app/ "
+          target="_blank"
+          class="project project-tile"
+        >
+          <img
+            class="project-image"
+            src="assets/nonprofit.png"
+            alt="project"
+          />
+          <p class="project-title">NON PROFIT-XD NGO </p>
+        </a> 
+        {/* https://got-ganesh.vercel.app/ */}
+
+
+        <a
+          href="https://got-ganesh.vercel.app/"
+          target="_blank"
+          class="project project-tile"
+        >
+          <img
+            class="project-image"
+            src="assets/got.png"
+            alt="project"
+          />
+          <p class="project-title"> PEOPLE OF GOT</p>
+        </a>
 
         {/* <a
           href="https://codepen.io/MadanSinha/full/bGwxqed"
@@ -125,6 +163,18 @@ const Projects = () => {
         </a> */}
 
         <a
+          href="https://rest-countries-react-iota-rust.vercel.app/"
+          target="_blank"
+          class="project project-tile"
+        >
+          <img
+            class="project-image"
+            src="assets/rest.png"
+            alt="project"
+          />
+          <p class="project-title">Rest Countries</p>
+        </a>
+                {/* <a
           href="https://moonlit-nougat-ab6465.netlify.app"
           target="_blank"
           class="project project-tile"
@@ -135,8 +185,8 @@ const Projects = () => {
             alt="project"
           />
           <p class="project-title">Huddle landing page</p>
-        </a>
-
+        </a> */}
+        {/* https://rest-countries-react-iota-rust.vercel.app/ */}
         {/* <a
           href="https://62430ce3085a210baf9a1f20--lazygyan-3column-preview-card.netlify.app/"
           target="_blank"
